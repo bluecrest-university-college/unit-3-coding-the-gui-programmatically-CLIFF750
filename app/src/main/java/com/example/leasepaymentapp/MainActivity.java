@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity {
         durationID = (InputType) findViewById(R.id.durationID);
         lease = (InputType) findViewById(R.id.lease);
         DownPaymentID = (InputType) findViewById(R.id.downpaymentID);
-        DownPaymentID =
         CarValueID = (InputType) findViewById(R.id.CarvalueID);
         IDcheck = (TextView) findViewById(R.id.IDcheck);
         calculate = (Button);findViewById(R.id.Calculate);
